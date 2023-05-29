@@ -45,7 +45,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content, .heading, .heading2, .about-img2', { origin: 'top' });
-ScrollReveal().reveal('.home-img, .about2-content, .services-container, .portfolio-box, .contact form', { origin: 'bottom' });
+ScrollReveal().reveal('.home-img, .about2-content, .services-container, .services-container-2,.portfolio-box, .contact form', { origin: 'bottom' });
 ScrollReveal().reveal('.home-content h1, .education-column', { origin: 'left' });
 ScrollReveal().reveal('.home-content p, .skills-column', { origin: 'right' });
  
